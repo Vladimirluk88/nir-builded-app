@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nir-builded-app/static/css/main.91251404.css",
-    "main.js": "/nir-builded-app/static/js/main.2283d7d9.js",
+    "main.css": "/nir-builded-app/static/css/main.78d101d7.css",
+    "main.js": "/nir-builded-app/static/js/main.b7a4bc95.js",
     "static/js/787.cf75fa39.chunk.js": "/nir-builded-app/static/js/787.cf75fa39.chunk.js",
     "index.html": "/nir-builded-app/index.html",
-    "main.91251404.css.map": "/nir-builded-app/static/css/main.91251404.css.map",
-    "main.2283d7d9.js.map": "/nir-builded-app/static/js/main.2283d7d9.js.map",
+    "main.78d101d7.css.map": "/nir-builded-app/static/css/main.78d101d7.css.map",
+    "main.b7a4bc95.js.map": "/nir-builded-app/static/js/main.b7a4bc95.js.map",
     "787.cf75fa39.chunk.js.map": "/nir-builded-app/static/js/787.cf75fa39.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91251404.css",
-    "static/js/main.2283d7d9.js"
+    "static/css/main.78d101d7.css",
+    "static/js/main.b7a4bc95.js"
   ]
 }
